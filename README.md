@@ -1,4 +1,11 @@
 Planning and Design for Holidaze
 
-In these folders are only files related to the planning process, designes, and prototypes. 
-The final project will be in another repository. 
+FOLDERS:
+Adobe_Prototype --> Final prototype of the project.
+
+Functional_Spec --> Functional Spec Document, DFD png images
+
+Logo --> AI file of Holidaze Logo, png files of logo
+
+FILES: 
+GanttChart
